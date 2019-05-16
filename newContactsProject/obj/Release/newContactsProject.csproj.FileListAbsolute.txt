@@ -1,0 +1,7 @@
+C:\Users\CCA022\source\repos\newContactsProject\bin\Release\newContactsProject.exe.config
+C:\Users\CCA022\source\repos\newContactsProject\bin\Release\newContactsProject.exe
+C:\Users\CCA022\source\repos\newContactsProject\bin\Release\newContactsProject.pdb
+C:\Users\CCA022\source\repos\newContactsProject\obj\Release\newContactsProject.csprojAssemblyReference.cache
+C:\Users\CCA022\source\repos\newContactsProject\obj\Release\newContactsProject.csproj.CoreCompileInputs.cache
+C:\Users\CCA022\source\repos\newContactsProject\obj\Release\newContactsProject.exe
+C:\Users\CCA022\source\repos\newContactsProject\obj\Release\newContactsProject.pdb
